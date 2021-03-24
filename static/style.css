@@ -27,7 +27,7 @@ html {
   align-items: center;
 }
 
-.container {				
+.line-container {				
   background-color: var(--secondary-color);
   margin: 3.6rem;
   box-shadow: 0 1rem 3rem var(--grey-color);
@@ -205,7 +205,6 @@ html {
   right: 3.1rem;
 }
 
-
 /* End of Header */
 
 /* Romania */
@@ -334,7 +333,7 @@ html {
   letter-spacing: 0.2rem;
   cursor: pointer;
 }
-/* End of Popular tours */
+/* End of Romania */
 
 
 /* Stories */
