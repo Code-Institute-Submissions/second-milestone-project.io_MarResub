@@ -27,7 +27,7 @@ html {
   align-items: center;
 }
 
-.line-container {				
+.container {				
   background-color: var(--secondary-color);
   margin: 3.6rem;
   box-shadow: 0 1rem 3rem var(--grey-color);
