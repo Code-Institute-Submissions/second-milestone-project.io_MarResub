@@ -1,5 +1,5 @@
 
-## [WELCOME TO ROMANIA](https://github.com/Sampatbraide/second-milestone-project.io/) 
+## [WELCOME TO ROMANIA](https://sampatbraide.github.io/second-milestone-project.io/) 
  Welcome to Romania is a website that displays the tourist attraction potential of Romania."Romania is the 12th largest country in Europe and the 7th most populous state of the European Union EU, Its 
  capital and largest city is called Bucharest. The website include various attraction centres spread across various parts of the country.
 
@@ -22,7 +22,7 @@ This website tends to showcase great tourism attraction places in the country of
 
 ## Features
  The website has a map as its logo and a favicon is displayed whenever on goes to the website.
- [WELCOME TO ROMANIA](https://github.com/Sampatbraide/second-milestone-project.io/)
+ [WELCOME TO ROMANIA](https://sampatbraide.github.io/second-milestone-project.io/)
 
  The Home Page;
  ![homepage.jpg](https://github.com/Sampatbraide/second-milestone-project.io/blob/main/static/images/homepage.jpg)
@@ -105,7 +105,7 @@ This website tends to showcase great tourism attraction places in the country of
  Deploying the GitHub Pages from my Desktop
  Log into GitHub.
  I will have to create a repository that is
- [WELCOME TO ROMANIA](https://github.com/Sampatbraide/second-milestone-project.io/)
+ [WELCOME TO ROMANIA](https://sampatbraide.github.io/second-milestone-project.io/)
  after doing that I will upload my project to the repository
  this will take a couple of minutes.
 
